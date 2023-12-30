@@ -1,3 +1,5 @@
+
+```javascript
 //	
 //	
 //	Build v.7.3f  
@@ -9,3 +11,5 @@
 //
 // inject using the jQuery Firefox injector addon 'run-a-script by mivanchev '     
 //      https://github.com/MIvanchev/run-a-script
+
+```
