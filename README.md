@@ -1,6 +1,11 @@
-# YT-AutoLike
-Youtube auto like script by Seth@WiiPlaza
-
-see release page! (latest release is 7.3f) 12/30/23
-
-![image](https://github.com/SethWiiPlaza/YT-AutoLike/assets/8001327/8e7e04b1-f2b2-4981-8e87-3107e0feba39)
+//	
+//	
+//	Build v.7.3f  
+//									 Code by Seth@WiiPlaza 
+//
+// script fixes forced pauses on YouTube caused by Ad-Blockers, it also auto-likes every video you watch
+//
+// Works only on latest versiom Firefox - tested on Version 11 5.6.0esr (64-bit) 
+//
+// inject using the jQuery Firefox injector addon 'run-a-script by mivanchev '     
+//      https://github.com/MIvanchev/run-a-script
