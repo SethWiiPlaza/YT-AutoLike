@@ -1,4 +1,3 @@
-
 ```javascript
 //	
 //	
@@ -12,5 +11,4 @@
 //                           >dependencies (jQuery)
 //      inject using the jQuery Firefox injector addon 'run-a-script by mivanchev '     
 //             https://github.com/MIvanchev/run-a-script
-
 ```
