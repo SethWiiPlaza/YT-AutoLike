@@ -1,5 +1,5 @@
 ```javascript
-/*                             Build v.7.6.4f  
+/*                             Build v.8.1f  
 //                           by Seth@WiiPlaza
 //  IN THIS VERSION:
 //      auto-likes every video you watch, script fixes forced pauses on YouTube caused by Ad-Blockers,                                 
