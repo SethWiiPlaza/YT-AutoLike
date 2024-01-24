@@ -8,4 +8,4 @@
 ```
  Inject my script  with any of these Firefox add-ons:
  
-TamperMonekey
+TamperMonkey
