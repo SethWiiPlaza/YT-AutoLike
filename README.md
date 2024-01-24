@@ -8,8 +8,4 @@
 ```
  Inject my script  with any of these Firefox add-ons:
  
-https://addons.mozilla.org/en-US/firefox/addon/custom-site-js/
- 
-https://addons.mozilla.org/en-US/firefox/addon/run-a-script/
- 
-https://addons.mozilla.org/en-US/firefox/addon/javascript/
+TamperMonekey
