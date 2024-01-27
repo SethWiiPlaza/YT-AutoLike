@@ -1,7 +1,5 @@
-                          # Build v9.0 by Seth@WiiPlaza
-
-        ![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
-
+ ## Build v9.0 by Seth@WiiPlaza
+  ![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
 
   In this version:
 
