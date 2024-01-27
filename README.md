@@ -1,10 +1,9 @@
-# Build v9.0 by Seth@WiiPlaza
+                          # Build v9.0 by Seth@WiiPlaza
 
-![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
+        ![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
 
-## Description
 
-In this version:
+  In this version:
 
 - Auto-likes every video you watch.
 - Script fixes forced pauses on YouTube caused by Ad-Blockers.
