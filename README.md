@@ -1,6 +1,6 @@
 # Build v9.0 by Seth@WiiPlaza
 
-![Build Image](https://thumbs2.imgbox.com/0d/f9/yZxvhhln_t.jpg)
+![Build Image](https://thumbs2.imgbox.com/30/cf/xfEdJdzG_t.jpg)
 
 ## Description
 
@@ -17,4 +17,4 @@ Works on the latest version (build) of Firefox.
 
 Inject my script with the FireFox extension [run-a-script](https://addons.mozilla.org/en-US/firefox/addon/run-a-script/) by mivanchev.
 
-![Extension Image](https://thumbs2.imgbox.com/11/a6/WBfVLEb7_t.jpg)
+![Extension Image](https://thumbs2.imgbox.com/30/bd/eq9LXDjD_t.jpg)
